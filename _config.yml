@@ -5,7 +5,7 @@ email: jj@lijiangjin.cn # your email address
 description: >
     这是李江锦的个人主页"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://latelee.github.io/lijj/" # the base hostname & protocol for your site
+url: "https://lijiangjin.github.io" # the base hostname & protocol for your site
 #twitter_username: itisbenjamin1 # your Twitter username
 ##github_username: itisbenjamin # your Github username
 #disqus_username: itisbenjamin # your disqus username
