@@ -2,7 +2,8 @@
 title: 李江锦的个人主页
 name: 李江锦 # your name
 email: jj@lijiangjin.cn # your email address
-description: "李江锦的个人主页，onvif，c++，linux，WIFI"
+description: "这是李江锦的个人主页"
+keywords: "李江锦, lijiangjin, 李迟, latelee"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://lijiangjin.github.io" # the base hostname & protocol for your site
 
