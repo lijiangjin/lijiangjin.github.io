@@ -291,7 +291,8 @@ letter-spacing: 1px;
 }
 
 .tbc:before {
-    content: "- T.B.C -";
+    /* content: "- T.B.C -"; */
+    content: "[未完待续]";
     width: 100%;
     text-align: center;
     display: block;
@@ -312,7 +313,8 @@ letter-spacing: 1px;
 }
 
 .eof:before {
-    content: "- E.O.F -";
+    /* content: "- E.O.F -"; */
+    content: "[全文完]";
     width: 100%;
     text-align: center;
     display: block;
