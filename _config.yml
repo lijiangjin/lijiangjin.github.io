@@ -4,9 +4,10 @@ name: 李江锦 # your name
 email: jj@lijiangjin.cn # your email address
 description: "这是李江锦的个人主页"
 keywords: "李江锦, lijiangjin, 李迟, latelee"
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://lijiangjin.github.io" # the base hostname & protocol for your site
-
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://www.lijiangjin.cn" # the base hostname & protocol for your site
+#url: "http://127.0.0.1:4000/"
+icp: 桂ICP备10003672号-3
 skillstree: true # turn on or off the skills tree in about page
 
 # Build settings

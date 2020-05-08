@@ -1,7 +1,7 @@
 /**
  * Basic styling
  */
-
+@charset "utf-8";
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -105,7 +105,8 @@ a:hover {
 
 
 .post-content h2:before {
-    content: "露 ";
+    /*content: "? ";*/
+    content: "> ";
     margin-right: 20px;
     color: #25bcba;
 }
@@ -292,7 +293,7 @@ letter-spacing: 1px;
 
 .tbc:before {
     /* content: "- T.B.C -"; */
-    content: "[鏈畬寰呯画]";
+    content: "[未完待续]";
     width: 100%;
     text-align: center;
     display: block;
@@ -314,7 +315,7 @@ letter-spacing: 1px;
 
 .eof:before {
     /* content: "- E.O.F -"; */
-    content: "[鍏ㄦ枃瀹宂";
+    content: "[全文完]";
     width: 100%;
     text-align: center;
     display: block;
