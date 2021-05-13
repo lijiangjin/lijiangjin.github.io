@@ -1,0 +1,18 @@
+{
+  "name": "vuepress-mysite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-theme-onen": "^1.1.3-beta"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "push": "scp -r .vuepress/dist/* root@latelee.org:/home/latelee/docker/composefile/websites/html_lijj"
+  },
+  "dependencies": {
+    "markdown-it-disable-url-encode": "^1.0.1"
+  }
+}

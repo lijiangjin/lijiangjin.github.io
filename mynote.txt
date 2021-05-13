@@ -1,0 +1,3 @@
+安装 markdown-it-disable-url-encode ，解决图片中文名称失败问题。  
+
+footer还有点问题。
