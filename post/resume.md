@@ -8,7 +8,7 @@
 | 毕业学校 | 桂林电子科技大学                                       | 学历     | 本科(2006.09~2010.06)      |
 | 专业     | 计算机科学与技术                                       | 工作年限 | 2010年~至今                |
 | Email    | jj@lijiangjin.cn                                       | 电话     | 网络中不公开               |
-| 主页     | [http://www.lijiangjin.cn/](http://www.lijiangjin.cn/) | github   | https://github.com/latelee |
+| 主页     | [http://www.lijiangjin.cn/](http://www.lijiangjin.cn/) | github   | [https://github.com/latelee](https://github.com/latelee) |
 
 ## 求职意向
 期望城市：再议  
